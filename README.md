@@ -1,1 +1,2 @@
 # angularWebApp
+bower gulp angular
